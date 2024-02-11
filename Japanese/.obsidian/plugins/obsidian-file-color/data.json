@@ -1,0 +1,26 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "hwEZvbsx-k5ShvAMyruMe",
+      "name": "jisho",
+      "value": "#0daf10"
+    },
+    {
+      "id": "wQH4kL8gN_l2poXybSaiz",
+      "name": "micelinus ",
+      "value": "#007bff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "jisho",
+      "color": "hwEZvbsx-k5ShvAMyruMe"
+    },
+    {
+      "path": "Japanese.md",
+      "color": "wQH4kL8gN_l2poXybSaiz"
+    }
+  ]
+}
