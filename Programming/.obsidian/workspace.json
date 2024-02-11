@@ -14,19 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "ee89950cb56767b2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee89950cb56767b2",
+  "active": "b78d0ac268ff0399",
   "lastOpenFiles": [
     "Programming.md"
   ]

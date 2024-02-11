@@ -11,12 +11,8 @@
             "id": "bd35f310b3007f14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,6 +141,8 @@
   },
   "active": "bd35f310b3007f14",
   "lastOpenFiles": [
+    "Japanese/jisho/Jisho.md",
+    "Japanese/Jisho.md",
     "README.md",
     "Math/Math.md",
     "Math/Untitled.canvas",

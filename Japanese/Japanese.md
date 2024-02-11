@@ -5,3 +5,5 @@ aliases:
 tags:
   - entry
 ---
+# Vault for Japanese learning 
+### ![[Jisho]]
