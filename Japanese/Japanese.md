@@ -7,3 +7,6 @@ tags:
 ---
 # Vault for Japanese learning 
 ### ![[Jisho]]
+
+### learning sources
+- [[Youtube]]
